@@ -47,6 +47,7 @@
 				<geom mesh="robot0:shoulder_pan_link" name="robot0:shoulder_pan_link" material="robot0:arm_mat"> </geom>
 				<body name="robot0:shoulder_lift_link" pos="0.117 0 0.06">
 					<inertial diaginertia="0.0116 0.0112 0.0023" mass="2.6615" pos="0.1432 0.0072 -0.0001" quat="0.4382 0.4382 0.555 0.555"> </inertial>
+					<!-- Range is shown in radians such that -1.221, 1.518 rad is equivalent to -70, 87 deg-->
 					<joint axis="0 1 0" name="robot0:shoulder_lift_joint" range="-1.221 1.518"> </joint>
 					<geom mesh="robot0:shoulder_lift_link" name="robot0:shoulder_lift_link" material="robot0:arm_mat" class="robot0:blue"> </geom>
 					<body name="robot0:upperarm_roll_link" pos="0.219 0 0">
