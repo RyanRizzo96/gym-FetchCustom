@@ -1,0 +1,6 @@
+Tue Oct 29 11:00:06 2019
+ERROR: Offscreen framebuffer is not complete, error 0x8cd6
+
+Wed Nov  6 08:08:16 2019
+ERROR: Offscreen framebuffer is not complete, error 0x8cd6
+
