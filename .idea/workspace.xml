@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4b641f3a-99b5-43ae-9884-2768d2ac5e52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gym/envs/robotics/assets/fetch/robot_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gym/envs/robotics/assets/fetch/robot_custom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,7 @@
       <updated>1572336200866</updated>
       <workItem from="1572336202131" duration="1486000" />
       <workItem from="1573988418911" duration="101000" />
-      <workItem from="1573989704024" duration="3093000" />
+      <workItem from="1573989704024" duration="5258000" />
     </task>
     <servers />
   </component>
